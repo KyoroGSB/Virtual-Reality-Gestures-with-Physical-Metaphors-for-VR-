@@ -6,5 +6,5 @@ This Study is for the operation of physical metaphors in 3D creative virtual rea
 | Function | Example |
 | --- | --- |
 | Create Obj | ![Obj](https://i.imgur.com/wW5GCJ6.jpg) |
-| Scale | ![scale](https://i.imgur.com/KOndVTK.jpg) |
-| Move | ![move](https://i.imgur.com/T3dJqXo.jpg) |
+| Scale | ![scale](https://i.imgur.com/qBPq15B.jpg) |
+| Move | ![move](https://i.imgur.com/UmMLSpD.jpg) |
